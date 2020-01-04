@@ -1,0 +1,80 @@
+body {
+    overflow: scroll;
+}
+
+#table_login {
+    border-collapse: separate;
+    border-spacing: 1em;
+}
+
+#container #title_section h4 {
+    color: red;
+}
+
+#container .row .form-group #button_erase {
+    float: right !important;
+}
+
+.container h5 {
+    color: red;
+}
+
+li {
+    display: inline;
+}
+
+.admin_table {
+    margin: 2%;
+}
+
+#table_section {
+    margin: 2%;
+}
+
+#send_section {
+    margin: 2%;
+    background-color: yellow;
+}
+
+#jumbo_content {
+    height: 20% !important;
+}
+
+.jumbotron h3{
+    color: #fff;
+}
+
+.jumbotron {
+  background-color: #000000 !important;
+  
+}
+
+#nav_jumbo {
+  height: 5%;
+}
+
+.same_width {
+    width: 70px;
+}
+
+#container {
+    margin: 1%;
+    
+}
+
+#logout_button {
+    float: right;
+    margin-top: 1%;
+}
+
+.noChange {
+    background-color: lightgray;
+}
+
+#footer_text {
+    padding-top: 6%;
+}
+
+#footer_name {
+    padding-top: 16%;
+}
