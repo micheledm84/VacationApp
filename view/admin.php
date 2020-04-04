@@ -23,10 +23,10 @@
     </div>
         <script>
             
-            $( document ).ready(function() {
+            /*$( document ).ready(function() {
                 $("#admin_p").removeClass('text-success');
                 $("#admin_p").addClass('text-white');
-            });
+            });*/
             
             function selectOperationDiv() {
                 var operation_selected = document.getElementById('operation_admin').value;

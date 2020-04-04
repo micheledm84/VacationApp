@@ -57,6 +57,10 @@ li {
     width: 70px;
 }
 
+.nav-size {
+    width: 130px;
+}
+
 #container {
     margin: 1%;
     

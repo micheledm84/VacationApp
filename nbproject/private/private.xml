@@ -2,6 +2,16 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/xampp/htdocs/vacationapp/css/styles.css</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/view/day_of_leave.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/common/navbar.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/functions/functions.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/view/admin.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/common/footer.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/view/report.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/view/index.php</file>
+            <file>file:/C:/xampp/htdocs/vacationapp/view/integrations/admin_employee_section.php</file>
+        </group>
     </open-files>
 </project-private>

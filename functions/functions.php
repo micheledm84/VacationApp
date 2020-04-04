@@ -270,7 +270,8 @@ function printName() {
 
 function printAdminNavbar() {
     echo '<li>';
-        echo '<a class="nav-link" href="../view/admin.php"><p class="text-success" id="admin_p">Admin Area</p></a>';
+        //echo '<a class="nav-link" href="../view/admin.php"><p class="text-success" id="admin_p">Admin Area</p></a>';
+        echo '<a class="nav-link" href="../view/admin.php"><p class="text-success" id="admin_p"><input type="button" class="btn nav-size" value="Admin"></p></a>';
     echo '</li>';
     
 }

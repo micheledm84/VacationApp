@@ -52,10 +52,10 @@
         <br>
         <script>
             
-            $( document ).ready(function() {
+            /*$( document ).ready(function() {
                 $("#report_p").removeClass('text-success');
                 $("#report_p").addClass('text-white');
-            });
+            });*/
             
             function passToAjax(input_value, table_manager) {
                $.ajax({

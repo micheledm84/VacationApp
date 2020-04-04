@@ -16,7 +16,7 @@
                             <tr><td> <input type="hidden" id="hidden_mail_text" name="hidden_mail_text"></input></td></tr>
 
                         </table><br><br>
-                        <button type="button" name="button_add" id="button_add" onclick="add_text_to_mail()" class="btn btn-info">Add to Mail</button>
+                        <button type="button" name="button_add" id="button_add" onclick="add_text_to_mail()" class="btn btn-primary">Add to Mail</button>
 
                     </div>
 
@@ -35,10 +35,10 @@
         
         <script>
         
-        $( document ).ready(function() {
+        /*$( document ).ready(function() {
             $("#vacation_p").removeClass('text-success');
             $("#vacation_p").addClass('text-white');
-        });
+        });*/
             
         function erase_all() {
             document.getElementById('data_inizio').value = "";

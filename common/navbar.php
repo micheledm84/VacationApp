@@ -29,13 +29,19 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
           <li>
-              <a class="nav-link" href="../view/index.php"><p class="text-success" id="vacation_p">Vacation Area</p></a>
+              <!--<a class="nav-link" href="../view/index.php"><p class="text-success" id="vacation_p">Vacation Areaa</p></a>-->
+              
+              <a class="nav-link" href="../view/index.php"><p class="text-success" id="vacation_p"><input type="button" class="btn nav-size" value="Vacation"></p></a>
           </li>
           <li>
-              <a class="nav-link " href="../view/day_of_leave.php"><p class="text-success" id="dayofleave_p">Day Of Leave Area</p></a>
+              <!--<a class="nav-link " href="../view/day_of_leave.php"><p class="text-success" id="dayofleave_p">Day Of Leave Area</p></a>-->
+              <a class="nav-link" href="../view/day_of_leave.php"><p class="text-success" id="vacation_p"><input type="button" class="btn nav-size" value="Day Of Leave"></p></a>
+
           </li>
           <li>
-              <a class="nav-link " href="../view/report.php"><p class="text-success" id="report_p">Report Area</p></a>
+              <!--<a class="nav-link " href="../view/report.php"><p class="text-success" id="report_p">Report Area</p></a>-->
+              <a class="nav-link " href="../view/report.php"><p class="text-success" id="report_p"><input type="button" class="btn nav-size" value="Report"></p></a>
+
           </li>
           <?php
           if ($_SESSION['permission'] == 2) {
